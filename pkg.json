@@ -13,5 +13,7 @@
 	"debug": false,
 	"src": "js/src/",
 	"out": "js/dist/",
-	"name": "bucketsort"
+	"name": "bucketsort",
+	"rec" : true,
+	"babel": true
 }
