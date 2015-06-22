@@ -1,0 +1,11 @@
+{
+	"version": "0.0.0",
+	"main": "js/dist/bucketsort.js",
+	"license": "AGPL-3.0",
+	"repo": "aureooms/js-bucketsort",
+	"name": "aureooms-js-bucketsort",
+	"description": "bucketsort code bricks for JavaScript",
+	"scripts": [
+		"js/dist/bucketsort.js"
+	]
+}
