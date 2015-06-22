@@ -1,5 +1,5 @@
 {
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "js/dist/bucketsort.js",
 	"license": "AGPL-3.0",
 	"repo": "aureooms/js-bucketsort",

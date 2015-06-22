@@ -1,5 +1,5 @@
 {
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "js/dist/bucketsort.js",
 	"homepage": "http://aureooms.github.io/js-bucketsort/",
 	"name": "aureooms-js-bucketsort",
