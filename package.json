@@ -19,7 +19,7 @@
 	"license": "AGPL-3.0",
 	"author": "aureooms",
 	"devDependencies": {
-		"aureooms-node-package": "^4.2.3"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"description": "bucketsort code bricks for JavaScript",
 	"keywords": [
