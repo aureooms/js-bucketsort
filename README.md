@@ -4,7 +4,7 @@
 Bucketsort code bricks for JavaScript. Parent is
 [aureooms/js-sort](https://github.com/aureooms/js-sort).
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-bucketsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-bucketsort/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-bucketsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-bucketsort/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-bucketsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-bucketsort)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-bucketsort.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-bucketsort)
 [![Build Status](https://img.shields.io/travis/aureooms/js-bucketsort.svg?style=flat)](https://travis-ci.org/aureooms/js-bucketsort)
