@@ -4,16 +4,16 @@
 Bucketsort code bricks for JavaScript. Parent is
 [aureooms/js-sort](https://github.com/aureooms/js-sort).
 
-[![NPM license](http://img.shields.io/npm/l/@aureooms/js-bucketsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-bucketsort/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/@aureooms/js-bucketsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-bucketsort)
-[![Bower version](http://img.shields.io/bower/v/@aureooms/js-bucketsort.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-bucketsort)
-[![Build Status](http://img.shields.io/travis/aureooms/js-bucketsort.svg?style=flat)](https://travis-ci.org/aureooms/js-bucketsort)
-[![Coverage Status](http://img.shields.io/coveralls/aureooms/js-bucketsort.svg?style=flat)](https://coveralls.io/r/aureooms/js-bucketsort)
-[![Dependencies Status](http://img.shields.io/david/aureooms/js-bucketsort.svg?style=flat)](https://david-dm.org/aureooms/js-bucketsort#info=dependencies)
-[![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-bucketsort.svg?style=flat)](https://david-dm.org/aureooms/js-bucketsort#info=devDependencies)
-[![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-bucketsort.svg?style=flat)](https://codeclimate.com/github/aureooms/js-bucketsort)
-[![NPM downloads per month](http://img.shields.io/npm/dm/@aureooms/js-bucketsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-bucketsort)
-[![GitHub issues](http://img.shields.io/github/issues/aureooms/js-bucketsort.svg?style=flat)](https://github.com/aureooms/js-bucketsort/issues)
+[![NPM license](https://img.shields.io/npm/l/@aureooms/js-bucketsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-bucketsort/master/LICENSE)
+[![NPM version](https://img.shields.io/npm/v/@aureooms/js-bucketsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-bucketsort)
+[![Bower version](https://img.shields.io/bower/v/@aureooms/js-bucketsort.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-bucketsort)
+[![Build Status](https://img.shields.io/travis/aureooms/js-bucketsort.svg?style=flat)](https://travis-ci.org/aureooms/js-bucketsort)
+[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-bucketsort.svg?style=flat)](https://coveralls.io/r/aureooms/js-bucketsort)
+[![Dependencies Status](https://img.shields.io/david/aureooms/js-bucketsort.svg?style=flat)](https://david-dm.org/aureooms/js-bucketsort#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-bucketsort.svg?style=flat)](https://david-dm.org/aureooms/js-bucketsort#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-bucketsort.svg?style=flat)](https://codeclimate.com/github/aureooms/js-bucketsort)
+[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-bucketsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-bucketsort)
+[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-bucketsort.svg?style=flat)](https://github.com/aureooms/js-bucketsort/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-bucketsort.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-bucketsort)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
