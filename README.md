@@ -1,4 +1,4 @@
-[js-bucketsort](http://aureooms.github.io/js-bucketsort)
+[js-bucketsort](http://make-github-pseudonymous-again.github.io/js-bucketsort)
 ==
 
 Bucketsort code bricks for JavaScript. Parent is

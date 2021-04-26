@@ -1,7 +1,7 @@
 {
 	"dependencies": {},
 	"name": "@aureooms/js-bucketsort",
-	"homepage": "http://aureooms.github.io/js-bucketsort/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-bucketsort/",
 	"spm": {
 		"main": "js/dist/bucketsort.js"
 	},
