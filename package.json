@@ -13,7 +13,7 @@
 	"version": "0.0.1",
 	"main": "js/dist/bucketsort.js",
 	"repository": {
-		"url": "https://github.com/aureooms/js-bucketsort.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-bucketsort.git",
 		"type": "git"
 	},
 	"license": "AGPL-3.0",
@@ -31,6 +31,6 @@
 		"sorting"
 	],
 	"bugs": {
-		"url": "https://github.com/aureooms/js-bucketsort/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-bucketsort/issues"
 	}
 }
